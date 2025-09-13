@@ -1,0 +1,18 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "mongoose": "^7.0.0",
+    "ms": "^2.1.3"
+  }
+}
